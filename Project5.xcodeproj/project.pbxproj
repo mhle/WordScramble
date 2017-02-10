@@ -14,6 +14,7 @@
 		7DBD32FE1E4BF863007A1D16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DBD32FC1E4BF863007A1D16 /* LaunchScreen.storyboard */; };
 		7DBD33091E4BF863007A1D16 /* Project5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DBD33081E4BF863007A1D16 /* Project5Tests.swift */; };
 		7DBD33141E4BF864007A1D16 /* Project5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DBD33131E4BF864007A1D16 /* Project5UITests.swift */; };
+		7DBD33221E4D32FD007A1D16 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7DBD33211E4D32FD007A1D16 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7DBD330F1E4BF863007A1D16 /* Project5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DBD33131E4BF864007A1D16 /* Project5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project5UITests.swift; sourceTree = "<group>"; };
 		7DBD33151E4BF864007A1D16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DBD33211E4D32FD007A1D16 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				7DBD32FA1E4BF863007A1D16 /* Assets.xcassets */,
 				7DBD32FC1E4BF863007A1D16 /* LaunchScreen.storyboard */,
 				7DBD32FF1E4BF863007A1D16 /* Info.plist */,
+				7DBD33211E4D32FD007A1D16 /* start.txt */,
 			);
 			path = Project5;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DBD32FE1E4BF863007A1D16 /* LaunchScreen.storyboard in Resources */,
+				7DBD33221E4D32FD007A1D16 /* start.txt in Resources */,
 				7DBD32FB1E4BF863007A1D16 /* Assets.xcassets in Resources */,
 				7DBD32F91E4BF863007A1D16 /* Main.storyboard in Resources */,
 			);
